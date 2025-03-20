@@ -10,7 +10,7 @@ export default function Home() {
       </div>
     <div className="flex min-h-screen flex-col items-center justify-between">
       <div className="z- items-center justify-between font-mono text-sm flex">
-          <Countdown date={`2025-04-23T00:00:00`} />
+          <Countdown date={`2025-03-30T00:00:00`} />
       </div>
     </div>
     </main>
